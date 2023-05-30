@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    column-rule-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(grape1.jpg) repeat-y;
+    background: url(grape2.jpg) repeat-y;
+    background-position: left,right;
+    margin-top: 20%;
+}
